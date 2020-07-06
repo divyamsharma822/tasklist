@@ -1,4 +1,4 @@
-<tt><i>Ⓒ TASKLIST 2020 DEVELOPED BY DIVYAM SHARMA</i></tt>
+<tt><i>Ⓒ TASKLIST 2020 DEVELOPED BY DIVYAM SHARMA</i></tt><br>
 <tt>It is a simple fully responsive task listing website. It is published on Github Pages.</tt>
 <br>
 <p>Tech Stack Used : <ul><li>HTML</li><li> CSS</li> <li>JS</li> <li>MaterializeCSS</li> <li>JQuery</li></ul></p>
